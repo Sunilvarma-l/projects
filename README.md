@@ -16,4 +16,3 @@ A Python-based project to analyze and visualize Zomato restaurant data. This pro
 - Jupyter Notebooks
 
 Explore the insights, contribute, or fork this repository to dive deeper into Zomato’s vast dataset!
-
